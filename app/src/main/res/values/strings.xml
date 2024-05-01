@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MyAppDiary1</string>
+    <string name="btnName">일기 저장하기</string>
+</resources>
